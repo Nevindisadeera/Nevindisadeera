@@ -5,12 +5,12 @@
 
 
 
-- 🔭 I’m currently working on **Tourism & Hospitality Website for a Tourism Company**
+- 🔭 I’m currently coding a website for a  **Tourism & Hospitality Website for a Tourism Company**
 
 - 🌱 I’m currently learning **Next.js, Angular**
 
 
-- 👨‍💻 My Linkedin [www.linkedin.com/in/nevindi-sadeera-loku-liyanage-18071125a](www.linkedin.com/in/nevindi-sadeera-loku-liyanage-18071125a)
+- 👨‍💻 My Linkedin www.linkedin.com/in/nevindi-sadeera-loku-liyanage
 
 - 📝 I regularly write articles on [https://medium.com/@nevsadee](https://medium.com/@nevsadee)
 
