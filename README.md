@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Next.js, Angular**
 
-- 🤝 I’m looking for help with **Library Management System for SLIATE**
 
 - 👨‍💻 My Linkedin [www.linkedin.com/in/nevindi-sadeera-loku-liyanage-18071125a](www.linkedin.com/in/nevindi-sadeera-loku-liyanage-18071125a)
 
