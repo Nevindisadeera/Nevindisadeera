@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **nevindisadeera@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/nevindi-sadeera-loku-liyanage-18071125a](www.linkedin.com/in/nevindi-sadeera-loku-liyanage-18071125a)
+- 📄 Know about my experiences [www.linkedin.com/in/nevindi-sadeera-loku-liyanage-18071125a](www.linkedin.com/in/nevindisadeera)
 
 - ⚡ Fun fact **I enjoy teaching others and often mentor budding developers online.**
 
